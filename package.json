@@ -1,0 +1,15 @@
+{
+  "name" : "passport-saml",
+  "version" : "0.1.0",
+  "description" : "SAML 2.0 authentication strategy for Passport",
+  "keywords" : [ "passport", "saml", "auth", "authn", "authentication", "identity" ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/athieme/passport-saml.git"
+  },
+  "main" : "./lib/passport-saml",
+  "dependencies" : {
+    "pkginfo" : "0.2.x",
+    "passport-oauth" : "1.0.0"
+  }
+}
